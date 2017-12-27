@@ -1,5 +1,7 @@
 # maxspn
 
-Algorithms in the paper "Maximum A Posteriori Inference in Sum-Product Networks".
+Algorithms and data in the paper:
 
-The code is under refactoring and will be available before Jan 1, 2018.
+Jun Mei, Yong Jiang and Kewei Tu, "Maximum A Posteriori Inference in Sum-Product Networks". In *the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018)*, New Orleans, Lousiana, USA, February 2–7, 2018.
+
+See documents on [GoDoc](https://godoc.org/github.com/shtechair/maxspn).
